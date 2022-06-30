@@ -23,3 +23,6 @@ To learn Genshin Impact theoretically
 ## 选修2 璃月
 ## 选修3 稻妻
 ## 选修4 须弥
+## 附录1 角色图鉴
+## 附录2 武器及圣遗物属性
+## 附录3 原魔大全
